@@ -12,7 +12,6 @@ reboot
 * OpenAppFilter  
 * 简单mesh  
 * smartdns  
-* 去广告plus—及—Adg广告拦截  
 
 * 流控  
 * ttyd  
