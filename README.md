@@ -7,7 +7,7 @@ firstboot
 reboot
 ~~~
 
-2021-12-5更新配置文件，删除冲突及多余的插件  
+2021-12-5 更新配置文件，删除多余的插件，这样rootfs有足够空间安装crash core  
 ## 插件：  
 * OpenAppFilter  
 * 简单mesh  
