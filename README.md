@@ -1,19 +1,21 @@
 自定义插件
 
-2021-12-5更新配置文件，删除冲突及多余的插件
-https://github.com/litaojin/AX6_OpenWRT_Build/releases/tag/2021.12.05-1451
-插件：
-#OpenAppFilter
-#简单mesh
-#科学ssp（全组件）
-#smartdns
-#去广告plus—及—Adg广告拦截
+[最新build](https://github.com/litaojin/AX6_OpenWRT_Build/releases/tag/2021.12.05-1451)  
+2021-12-5更新配置文件，删除冲突及多余的插件  
+插件：  
+* OpenAppFilter  
+* 简单mesh  
+* smartdns  
+* 去广告plus—及—Adg广告拦截  
 
-#流控
-#ttyd
-#zerotier
-#Turbo ACC
-#openclash
+* 流控  
+* ttyd  
+* zerotier  
+* Turbo ACC  
+
+* openclash   
+* passwall   
+* ShadowSocksRPlus+  
 
 #多拨&负载均衡#组播#等等！自行研究！
 
