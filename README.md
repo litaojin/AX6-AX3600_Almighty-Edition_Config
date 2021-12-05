@@ -1,6 +1,6 @@
 ## 适用于AX6  
 只适用于已经刷入OpenWRT固件后的AX6   
-下载[最新build](https://github.com/litaojin/AX6_OpenWRT_Build/releases/tag/2021.12.05-1451)  
+下载[最新build](https://github.com/litaojin/AX6_OpenWRT_Build/releases/tag/2021.12.05-2217)  
 如果是初次安装，需要执行以下命令来恢复出厂配置
 ~~~
 firstboot
