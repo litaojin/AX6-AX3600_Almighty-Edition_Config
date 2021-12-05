@@ -1,6 +1,7 @@
 自定义插件
 
 2021-12-5更新配置文件，删除冲突及多余的插件
+https://github.com/litaojin/AX6_OpenWRT_Build/releases/tag/2021.12.05-1451
 插件：
 #OpenAppFilter
 #简单mesh
